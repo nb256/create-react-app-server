@@ -1,4 +1,4 @@
-# Create-react-app with index.html replacer server
+# Create-react-app with express server which replaces index.html
 
 This repo serves as a companion to the [blog post](https://talentra.net/blog/React-Uygulamalarina-Meta-Etiketleri-Eklemek-877/).
 
