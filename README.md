@@ -4,7 +4,8 @@ This repo serves as a companion to the [blog post](https://talentra.net/blog/Rea
 
 ## Getting Started
 
-install [node](https://nodejs.org/en//)
+install [node](https://nodejs.org/en/)
+install [git](https://git-scm.com/)
 
 ```shell
 git clone https://github.com/nb256/create-react-app-server.git
